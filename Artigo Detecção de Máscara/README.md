@@ -6,3 +6,5 @@ Dessa forma, decidimos elaborar um detector de máscaras faciais em fotos, progr
 Artigo Completo: https://medium.com/@ieeecisunb/criando-um-detector-de-uso-de-m%C3%A1scara-com-python-77666c4a5aa7
 
 Código: https://colab.research.google.com/drive/1IamrWH3gs1zJtST1RFEwEsjSlBoECUsD#scrollTo=69GMh_rta8I6
+
+**Artigo escrito por Daniela Baracuí e Maria Gabriela Ramos
